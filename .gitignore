@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite-journal
+.DS_Store
+.env
+.pytest_cache/
+video/raw/
